@@ -66,7 +66,7 @@ import { mapMutations } from 'vuex'
   export default {
     layout: "empty",
     head: {
-      title: "Welcome to the club buddy"
+      title: "Welcome to the chat buddy"
     },
     sockets: {
         connect: function () {
